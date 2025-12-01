@@ -1,0 +1,16 @@
+# data/
+
+# result/
+# result_auto/
+# result_pic/
+
+env/
+
+*.csv
+*.png
+
+__pycache__/
+*.pyc
+
+.vscode/
+
